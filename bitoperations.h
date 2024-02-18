@@ -1,0 +1,8 @@
+//
+// Created by Thomas Andersen on 18/02/2024.
+//
+
+#ifndef CAOSCULATOREN_BITOPERATIONS_H
+#define CAOSCULATOREN_BITOPERATIONS_H
+
+#endif //CAOSCULATOREN_BITOPERATIONS_H
